@@ -1,0 +1,16 @@
+body {
+background-color:tan;
+margin: auto;
+}
+
+.container {
+display: flex;
+}
+
+.container > div {
+  background-color: #000000;
+  width: 100%;
+  color: white;
+  font-size: 24px;
+}
+
