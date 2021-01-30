@@ -34,23 +34,6 @@ destination of the file (ex .ico or .css)-->
     <!-- </div> -->
   </div>
 </nav>
-
-
-  <div class="container mx-auto rounded-t shadow bg-cover bg-bottom m-4" style="background-image: url(https://ak.picdn.net/shutterstock/videos/34449439/thumb/1.jpg?ip=x480)">
- 	
-<div class="mb-16"> </div>
-    
-    <div class="text-center text-white pb-16 mb-16">
-      <h1 class="font-sans font-thin">Reality is just a matter of perception.</h1>
-      <h2 class="font-thin text-sm tracking-wide mt-2 mb-4">There are no limits, except for those that we impose on ourselves. Join the future</h2>
-  
-      	<a href="#" class="rounded bg-white text-black  shadow-md hover:bg-black hover:text-white transition p-4 font-bold inline-block mb-16">
-      		Apply Now
-      	</a>
-      
-    
-    </div>
-  </div>
   
 
 
