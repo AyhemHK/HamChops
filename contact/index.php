@@ -3,10 +3,11 @@
 
 <!--head tag includes data of data (meta data)-->
 <head>
-<title>HamChops</title>
+<title>HamChops - Contact</title>
 <!--rel is the attribute of the type of file whereas href is the 
 destination of the file (ex .ico or .css)--> 
-	<link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet"><link rel="icon" href="favicon.ico"></link>
+	<link href="https://unpkg.com/tailwindcss@^2/dist/tailwind.min.css" rel="stylesheet">
+	<link rel="icon" href="../favicon.ico">
 </head>
 
 <body class="bg-red-400">
@@ -17,7 +18,7 @@ destination of the file (ex .ico or .css)-->
 
     <div>
 	
-	<a href="/" class="text-2xl no-underline text-grey-darkest hover:text-blue-dark font-sans font-bold ">HamChops</a>
+	<a href="../" class="text-2xl no-underline text-grey-darkest hover:text-blue-dark font-sans font-bold ">HamChops</a>
 	
 	</div>
 	
@@ -27,13 +28,16 @@ destination of the file (ex .ico or .css)-->
 
   <div class="sm:mb-0 self-center">
     <!-- <div class="h-10" style="display: table-cell, vertical-align: middle;"> -->
-    <a href="menu.php" class="text-md no-underline text-black transition hover:text-blue-500 ml-2 px-1">Meats</a>
-    <a href="#" class="text-md no-underline text-grey-darker transition  hover:text-blue-500 ml-2 px-1">About Us</a>
+    <a href="../menu" class="text-md no-underline text-black transition hover:text-blue-500 ml-2 px-1">Menu</a>
+    <a href="../about-us" class="text-md no-underline text-grey-darker transition  hover:text-blue-500 ml-2 px-1">About Us</a>
     <!-- <a href="/two" class="text-lg no-underline text-grey-darkest hover:text-blue-dark ml-2">About Us</a> -->
-    <a href="#" class="text-md no-underline text-grey-darker transition hover:text-blue-500 ml-2 px-1">Contact</a>
+    <a href="." class="text-md font-bold no-underline text-grey-darker transition hover:text-blue-500 ml-2 px-1">Contact</a>
     <!-- </div> -->
   </div>
 </nav>
+
+
+  
   
 
 
